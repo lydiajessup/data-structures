@@ -5,6 +5,6 @@ This project was originally developed for Introduction to Computational Media at
 
 final_presentation_20181213_clean is the online version
 
-final_presentation_20181216_showpots is the version for the show that requires sliding potentiometers to run
+final_presentation_20181216_vgithub is the version for the show that requires sliding potentiometers to run
 
 You can read more about it here: https://www.lydiajessup.me/data-structures/
